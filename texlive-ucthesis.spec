@@ -6,7 +6,7 @@
 # catalog-version 3.2
 Name:		texlive-ucthesis
 Version:	3.2
-Release:	2
+Release:	3
 Summary:	University of California thesis format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucthesis
