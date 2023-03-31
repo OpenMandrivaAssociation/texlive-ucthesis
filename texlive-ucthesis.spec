@@ -1,6 +1,6 @@
 Name:		texlive-ucthesis
 Version:	15878
-Release:	1
+Release:	2
 Summary:	University of California thesis format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucthesis
