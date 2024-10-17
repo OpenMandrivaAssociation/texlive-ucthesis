@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	University of California thesis format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ucthesis
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ucthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ucthesis.doc.r%{version}.tar.xz
